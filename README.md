@@ -1,5 +1,8 @@
 # Instalação do GitLab-CE usando Shell Script
 
+## English Translate
+[Translate](https://translate.google.com.br/#pt/en)
+
 ## Descrição
 
 Este é um Shell Script que simplifica a instalação do GitLab Community Edition (GitLab-CE) em seu servidor. O GitLab-CE é uma plataforma de desenvolvimento colaborativo baseada em Git que permite hospedar repositórios de código-fonte, rastrear problemas, gerenciar projetos e muito mais.
