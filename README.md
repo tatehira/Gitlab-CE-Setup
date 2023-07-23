@@ -6,31 +6,27 @@ Este é um Shell Script que simplifica a instalação do GitLab Community Editio
 
 ## Instruções de Importação
 
-Para utilizar este Shell Script e instalar o GitLab-CE, siga as etapas abaixo:
+## Para utilizar este Shell Script e instalar o GitLab-CE, siga as etapas abaixo:
 
-1. Abra o terminal ou prompt de comando em seu servidor.
+##1. Abra o terminal ou prompt de comando em seu servidor.
 
-2. Clone o repositório que contém o Shell Script usando o comando abaixo:
+##2. Clone o repositório que contém o Shell Script usando o comando abaixo:
 
-```bash
-git clone <URL_DO_REPOSITORIO>
-
-
-## Acesse o diretório do repositório clonado:
-
-```bash
-cd <NOME_DO_REPOSITORIO>
-
-## Dê permissão de execução ao arquivo do Shell Script:
-
-```bash
-chmod +x gitlab_install.sh
+`git clone <URL_DO_REPOSITORIO>`
 
 
-## Execute o Shell Script com privilégios de administrador (sudo) para iniciar a instalação:
+##3. Acesse o diretório do repositório clonado:
 
-```bash
-sudo ./gitlab_install.sh
+`cd <NOME_DO_REPOSITORIO>`
+
+##4. Dê permissão de execução ao arquivo do Shell Script:
+
+`chmod +x gitlab_install.sh`
+
+
+##5. Execute o Shell Script com privilégios de administrador (sudo) para iniciar a instalação:
+
+`sudo ./gitlab_install.sh`
 
 Siga as instruções e forneça as informações necessárias durante o processo de instalação do GitLab-CE e aguarde a conclusão da instalação e, em seguida, acesse o GitLab-CE pelo navegador usando o endereço de IP do servidor.
 
