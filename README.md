@@ -6,25 +6,25 @@ Bem-vindo ao meu repositório de Scripts Shell! Este repositório contém uma co
 
 1. Clone este repositório para a sua máquina local usando o seguinte comando:]
    
-`git clone https://github.com/tatehira/ShellScripts`
+`git clone https://github.com/tatehira/Gitlab-CE-Setup.git`
 
 
 
 3. Navegue até o diretório do repositório clonado:
    
-`cd ShellScripts`
+`cd Gitlab-CE-Setup`
 
 
 
 5. Escolha o script que deseja usar e torne-o executável, se necessário:
    
-`chmod +x nome-do-script.sh`
+`chmod +x gitlab-ce-setup.sh`
 
 
 
 7. Execute o script com privilégios administrativos:
    
-`sudo ./nome-do-script.sh`
+`sudo ./gitlab-ce-setup.sh`
 
 
 
