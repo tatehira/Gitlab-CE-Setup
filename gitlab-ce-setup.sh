@@ -1,12 +1,4 @@
 #!/bin/bash
-#<!DOCTYPE html>
-# <html>
-# <head>
-#     <meta charset="UTF-8">
-#     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-# </head>
-# <body>
-#     <pre>
 while true; do
     clear
     echo "===== Menu ====="
@@ -78,6 +70,3 @@ while true; do
             ;;
     esac
 done
-# </pre>
-# </body>
-#</html>
