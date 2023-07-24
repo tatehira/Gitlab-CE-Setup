@@ -1,18 +1,39 @@
-# Instalação do GitLab CE usando Shell Script
-Este é um Shell Script que simplifica a instalação do GitLab Community Edition (GitLab CE) em seu servidor. O GitLab CE é uma plataforma de desenvolvimento colaborativo baseada em Git que permite hospedar repositórios de código-fonte, rastrear problemas, gerenciar projetos e muito mais.
+# Repositório de Scripts Shell
 
-## Instruções de Instalação
-Para utilizar este Shell Script e instalar o GitLab CE, siga as etapas abaixo:
+Bem-vindo ao meu repositório de Scripts Shell! Este repositório contém uma coleção de scripts shell para instalação de diversos sistemas e aplicativos, como GitLab CE, Moodle e muito mais. Esses scripts automatizam o processo de instalação, facilitando a configuração desses sistemas em sua máquina.
 
-1- Abra um terminal em seu servidor e instale o curl
+## Uso
 
-`sudo apt install curl git -y`
-
-2- Copie e cole o seguinte comando no terminal e pressione "Enter":
-
-`curl -sSL -o gitlab-ce-setup.sh https://tatehira.github.io/Gitlab-CE-Setup/ | chmod +x gitlab-ce-setup.sh | sudo bash ./gitlab-ce-setup.sh`
+1. Clone este repositório para a sua máquina local usando o seguinte comando:]
+   
+`git clone https://github.com/tatehira/ShellScripts`
 
 
-1- O Shell Script iniciará a instalação do GitLab CE em seu servidor. Siga as instruções exibidas durante o processo de instalação.
 
-2- Após a conclusão da instalação, o GitLab CE estará pronto para uso. Acesse o GitLab CE pelo navegador usando o endereço de IP do servidor.
+3. Navegue até o diretório do repositório clonado:
+   
+`cd ShellScripts`
+
+
+
+5. Escolha o script que deseja usar e torne-o executável, se necessário:
+   
+`chmod +x nome-do-script.sh`
+
+
+
+7. Execute o script com privilégios administrativos:
+   
+`sudo ./nome-do-script.sh`
+
+
+
+9. Siga as instruções e prompts fornecidos pelo script para concluir a instalação do sistema ou aplicativo desejado.
+
+## Contribuições
+
+Contribuições para este repositório são bem-vindas! Se você tiver melhorias ou scripts de instalação adicionais que gostaria de compartilhar, sinta-se à vontade para enviar um pull request. Por favor, certifique-se de documentar bem seus scripts e seguir as melhores práticas.
+
+## Licença
+
+Este repositório está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir os scripts conforme necessário.
