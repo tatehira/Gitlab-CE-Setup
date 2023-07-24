@@ -4,7 +4,9 @@ Este é um Shell Script que simplifica a instalação do GitLab Community Editio
 ## Instruções de Instalação
 Para utilizar este Shell Script e instalar o GitLab CE, siga as etapas abaixo:
 
-1- Abra um terminal em seu servidor.
+1- Abra um terminal em seu servidor e instale o curl
+
+`sudo apt install curl git -y`
 
 2- Copie e cole o seguinte comando no terminal e pressione "Enter":
 
