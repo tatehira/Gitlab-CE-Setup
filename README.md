@@ -10,7 +10,7 @@ Para utilizar este Shell Script e instalar o GitLab CE, siga as etapas abaixo:
 
 2- Copie e cole o seguinte comando no terminal e pressione "Enter":
 
-`curl -sSL -o gitlab-ce-setup.sh https://tatehira.github.io/Gitlab-CE-Setup/ | sudo bash gitlab-ce-setup.sh`
+`curl -sSL -o gitlab-ce-setup.sh https://tatehira.github.io/Gitlab-CE-Setup/ | sudo bash ./gitlab-ce-setup.sh`
 
 
 1- O Shell Script iniciará a instalação do GitLab CE em seu servidor. Siga as instruções exibidas durante o processo de instalação.
