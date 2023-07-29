@@ -35,7 +35,7 @@ while true; do
             clear
             ip=$(hostname -I | awk '{print $1}')
             echo "==============================================================="
-            echo "-- Acesse o Gitlab-CE pelo seguinte link: https://$ip          "
+            echo "-- Acesse o Gitlab-CE pelo seguinte link: http://$ip          "
             echo "==============================================================="
             echo "login: root"
             echo "senha: $password"
