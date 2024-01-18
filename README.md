@@ -29,6 +29,8 @@ Bem-vindo ao meu repositório de Scripts Shell! Este repositório contém uma co
 
 
 9. Siga as instruções e prompts fornecidos pelo script para concluir a instalação do sistema ou aplicativo desejado.
+![menu](https://github.com/tatehira/Gitlab-CE-Setup/assets/68212041/44547e7c-d3c0-4257-b02a-83479b1b0e37)
+
 
 ## Contribuições
 
